@@ -1,0 +1,21 @@
+{
+  "name": "e33or_assasin",
+  "version": "1.0.1",
+  "bin": "./cli.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishabhKodes/npxCard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RishabhKodes/npxCard/issues"
+  },
+  "homepage": "https://github.com/RishabhKodes/npxCard#readme",
+  "description": ""
+}
