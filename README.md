@@ -5,7 +5,7 @@
 
 Creating your own Bussiness Card using a npm module, looks way more cooler than a normal boring contact card. Create an output template and publish it as a npm module package. If you write **npx rishabh007** in your linux terminals, this is what you get:-
 
-![A Sample Image](https://drive.google.com/file/d/1xgAUs5depww5pSBMW0_1F7EN4iXkEwhr/view?usp=sharing)
+![Cool Right?](https://raw.githubusercontent.com/RishabhKodes/npxCard/master/bin/card.png)
 
 
 ### Built With
