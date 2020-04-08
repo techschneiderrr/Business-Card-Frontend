@@ -3,7 +3,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Creating your own Bussiness Card using a npm module, looks way more cooler than a normal boring contact card. Create an output template and publish it as a npm module package.
+Creating your own Bussiness Card using a npm module, looks way more cooler than a normal boring contact card. Create an output template and publish it as a npm module package. If you write **npx rishabh007** in your linux terminals, this is what you get:-
+
+![A Sample Image](https://drive.google.com/file/d/1xgAUs5depww5pSBMW0_1F7EN4iXkEwhr/view?usp=sharing)
+
+
 ### Built With
 Some major frameworks that were used in creating of this project:-
 * [npm](https://www.npmjs.com/)
@@ -31,7 +35,7 @@ npm login
 4. Goto package.json and change-
         1. name
         2. description
-        **The "name" in package.json is the name by which people will install your npm package, _eg- npx "name"_ ** 
+        **The "name" in package.json is the name by which people will install your npm package, _eg- npx "name"_** 
 3. Install NPM packages
 ```sh
 npm install
