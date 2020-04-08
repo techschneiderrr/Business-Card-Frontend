@@ -33,6 +33,7 @@ cd npxCard
 npm login
 ```
 4. Goto package.json and change-
+
         1. name
         2. description
         **The "name" in package.json is the name by which people will install your npm package, _eg- npx "name"_** 
