@@ -1,0 +1,141 @@
+body{
+    background-color: #363636;
+}
+
+
+img{
+
+  border-radius: 10px;
+  border-style:groove;
+  border-color: black;
+
+  border-image-width: 3px;
+  background-color: yellow;
+
+
+}
+
+
+.intro{
+  text-align: center;
+  font-size: 44px;
+  color: #deff8b;
+  font-family: sans-serif;
+
+}
+
+
+p{
+  text-align:center;
+  color: #deff8b;
+  font-size: 20px;
+
+}
+
+
+.my-img {
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  background-color: #d5c455;
+  margin: 10px;
+  margin-bottom: 10px;
+
+}
+
+.ignore-css{all:unset;}
+
+
+
+img:hover {opacity: 0.5;
+
+}
+
+.container{
+  align-content:center;
+}
+
+.header{
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+
+.grid{
+  margin-left: 251px;
+  margin-top: 50px;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 10px;
+  margin-top: 10px;
+
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  max-width: 27%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 10px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+span{
+  font-size: 100px;
+  font-weight: bolder;
+  padding: 10px;
+  margin-left: 140px;
+
+}
+
+.butt{
+  border-width: 3px;
+  border-image-width: 3px;
+}
+
+h1{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: cursive;
+
+}
+
+.my-bar{
+  background:#8cba51;
+}
+hr{
+  border: 2px solid yellow;
+ border-radius: 5px;
+
+
+
+}
+
+.contact{
+  font-size: 16px;
+  color:white;
+}
