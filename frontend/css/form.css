@@ -1,0 +1,41 @@
+body{
+    background-color: #363636;
+}
+
+
+
+.my-bar{
+  background:#8cba51;
+}
+
+
+
+.myinfo{
+  color: black;
+  font-size: 23px;
+  font-weight: normal;
+
+}
+
+.my-row{
+  margin-top: 200px;
+  text-align: center;
+}
+
+.box{
+  border-radius: 10px;
+  border: black solid;
+  text-align:center;
+
+}
+.contact{
+  font-size: 16px;
+  color:white;
+}
+hr{
+  border: 2px solid yellow;
+ border-radius: 5px;
+
+
+
+}

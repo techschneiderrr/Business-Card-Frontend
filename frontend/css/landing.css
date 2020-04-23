@@ -1,0 +1,53 @@
+body{
+    background-color: #363636;
+}
+
+.my-bar{
+    background:#8cba51;
+}
+
+.my-col2{
+  background-color: white;
+  border-radius: 25px;
+  text-align: center;
+  border : solid pink 4px;
+
+
+}
+
+.my-row{
+
+  background-color:#ccda46;
+}
+
+.myh2{
+  margin-top: 4px;
+  margin-right: 4px;
+  margin-left: 4px;
+  text-decoration: underline;
+  font-weight: bold;
+
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  opacity:0.7;
+}
+
+p{
+  font-size: 22px;
+}
+
+
+
+.contact{
+  font-size: 16px;
+  color:white;
+}
+
+hr{
+  border: 2px solid yellow;
+ border-radius: 5px;
+}
