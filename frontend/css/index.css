@@ -52,12 +52,12 @@ body {
   display: flex;
 }
 
-.a1 {
+.a {
     color:dimgrey;
     text-decoration: none;
 }
 
-a1:hover 
+a:hover 
 {
      color:black; 
      text-decoration:none;
