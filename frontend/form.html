@@ -6,12 +6,13 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/form.css">
     <meta charset="utf-8">
-    <title></title>
+      <link rel="icon" href="img/card.png">
+    <title>form</title>
   </head>
   <body>
 
     <section>
-      <nav class="navbar navbar-expand-lg navbar-light my-bar">
+      <nav class="navbar navbar-expand-lg navbar-light my-bar fixed-top">
   <a class="navbar-brand" href="#" style="font-weight:bolder">CARDIFY</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -20,22 +21,12 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="landing page.html">Home<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">About us    <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="#bottom">About us    <span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Categories
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
+      
     </ul>
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="search" aria-label="Search">
@@ -43,15 +34,21 @@
     </form>
   </div>
 </nav>
-    </section>
-
-<div class="container">
-  <div class="row my-row justify-content-start" style="background-color:white;border-radius:10px">
+    </section><br>
+      
+<div class='card card--2x 'style="background-color:floralwhite">
+      <div class='card__content big-script padding-large'>
+        <p>Enter your details and you are ready to go !!!</p>
+      </div>
+    </div>
+      <br><br><br>
+<div class="container container-fluid" >
+  <div class="row my-row justify-content-start" style="background-color:floralwhite;border-radius:10px">
     <div class="col-5">
       <img src="img/form.png" width="500" height="490"alt="img">
     </div>
     <div class="col-5 " style="padding:10px; background-color:pink; border: solid black;margin-left:60px;border-radius:9px;margin-top:20px;margin-bottom:20px">
-      <form action="/action_page.php"><br><br>
+      <form action="display.html"><br><br>
         <div class="row justify-content-start">
           <div class="col-5">
             <label for="cname"><h2 class="myinfo">Company:</h2></label>
@@ -106,21 +103,21 @@
 
 
 
-       <input type="submit" value="Submit" class="box" style="background-color:#f7ff56">
+          <input type="submit" value="submit" class="box" style="background-color:#f7ff56"  >
        <input type="reset" class="box" style="background-color:#ddf796" class="box">
        <br><br>
      </form>
    </div>
  </div>
-</div><br><br><br><br><br><br><br><br>
-
-
-<div class="container contact">
+</div><br><br><br>
+      
+<section style="background-color: floralwhite">
+<div class="container contact" id="bottom">
   <hr>
      Contact Us : +91 9863823627 <br>
      Address    : Vellore Institute Of Technology ,Vellore <br>
      E-mail Id  : abcd@abc.com <br>
-</div>
-
+</div><br><br>
+</section>
   </body>
 </html>
