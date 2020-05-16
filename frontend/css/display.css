@@ -1,0 +1,73 @@
+
+
+.big-scripts {
+  height: 100%;
+  display: -webkit-box;
+    text-shadow: 0px 0px 80px black;
+  
+  -webkit-box-pack: center;
+          justify-content: center;
+
+  font-family: 'Sacramento', sans-serif;
+  font-size: 7em;
+  line-height: 1.15em;
+  text-align: center;
+}
+a {
+    color:black;
+    text-decoration: none;
+}
+a:hover 
+{
+     color:darkgrey; 
+     text-decoration:none;
+     cursor:pointer;  
+}
+
+
+
+
+.card-w .card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 30px;
+  position: relative;
+  background:transparent;
+  border-radius: 70px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+.my-img {
+    border-radius: 16px;
+}
+img:hover{
+    opacity:0.6;
+    border-radius:7px;
+    
+}
+
+.btn1 {
+  top: 0;
+  left: 0;
+  transition: all .15s linear 0s;
+  position: relative;
+  display: inline-block;
+  padding: 15px 25px;
+  background-color: black;
+  text-transform: uppercase;
+  color: white;
+  font-family: arial;
+  letter-spacing: 1px;
+  box-shadow: -6px 6px 0 grey;
+  text-decoration: none;
+}
+.btn:hover {
+  top: 3px;
+  left: -3px;
+  box-shadow: -3px 3px 0 #404040;
+}
+
+.card.active {
+  box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255, 255, 255, 0.5), inset 3px 3px 7px rgba(136, 165, 191, 0.48), inset -3px -3px 7px #FFFFFF;
+  background: linear-gradient(318.32deg, rgba(163, 177, 198, 0.1) 0%, rgba(163, 177, 198, 0.1) 55%, rgba(163, 177, 198, 0.25) 100%);
+}
