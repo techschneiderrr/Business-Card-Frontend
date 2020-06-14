@@ -8,10 +8,9 @@
 
 
 ## Features
-- 
-
-
-
+- Easy to use.
+- Faster way to create bussiness cards.
+- Cards can be downloaded once created.
 
 ## Screenshots
 <img src="https://github.com/techschneiderrr/Business-Card-Frontend/blob/master/frontend/img/card1.jpg"><br>
