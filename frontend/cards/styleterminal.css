@@ -42,18 +42,18 @@ body {
   -webkit-perspective: 150rem;
           perspective: 150rem;
   height: 20rem;
-  width: 30rem;
+  width: 43rem;
   position: relative;
 }
 .card__side {
-  height: 15rem;
+  height: 390px;
   -webkit-transition: all 0.8s ease;
   transition: all 0.8s ease;
   position: absolute;
   top: 0;
   left: 0;
   margin: auto;
-  width: 30rem;
+  width: 690px;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   border-radius: 3px;

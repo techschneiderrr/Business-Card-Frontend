@@ -1,10 +1,14 @@
+Body
+{background-color: beige;
+}
+
 .card {
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
   display: grid;
   font-family: 'Trebuchet MS', sans-serif;
-  height: 200px;
+  height: 390px;
   margin: 20px auto;
-  width: 350px;
+  width: 690px;
 }
 .front {
   grid-template-columns: repeat(12, 1fr);

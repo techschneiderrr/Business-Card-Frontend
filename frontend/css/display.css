@@ -1,5 +1,21 @@
+body {
 
+  background-image: url('/8407.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.45em;
+  color: #404646;
+}
+
+.my-bar{
+  background:#6c567b;
+    border-bottom: 0.25px solid white;
+    max-height: 45px;
+}
 .big-scripts {
   height: 100%;
   display: -webkit-box;
@@ -45,6 +61,7 @@ img:hover{
     border-radius:7px;
     
 }
+
 
 .btn1 {
   top: 0;

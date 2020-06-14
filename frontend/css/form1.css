@@ -1,0 +1,99 @@
+body {
+
+  background-image: url('/img/8407.jpg');
+  
+
+  background-position: center center;
+  
+
+  background-repeat: no-repeat;
+  
+
+
+  background-attachment: fixed;
+  
+
+
+  background-size: cover;
+
+
+
+  background-color: #464646;
+}
+
+.my-bar{
+  background:#6c567b;
+    border-bottom: 0.25px solid white;
+    max-height: 45px;
+}
+
+.a3 {
+  color: white;
+  margin:5px;
+  text-decoration: none;
+font-weight: 900;
+}
+
+.a3:hover {
+ 
+  background-position: bottom;
+  background-repeat: repeat-x;
+  color: #ccda46;
+  text-decoration: none;
+}
+
+
+
+
+/*details coloection*/
+
+
+
+
+input::placeholder {
+  color: dimgray;
+}
+
+.form__field {
+  margin-bottom: 1rem;
+}
+.form input {
+  outline: 0;
+  padding: .5rem 1rem;
+}
+.form input[type="email"], .form input[type="text"] {
+  width: 100%;
+}
+
+.grid {
+  margin: 0 auto;
+  max-width: 25rem;
+  width: 100%;
+}
+
+h2 {
+  font-size: 2.75rem;
+  font-weight: 200;
+  margin: 0 0 1rem;
+  
+}
+
+.outbox {
+  box-shadow: 0 0 250px #000;
+  text-align: center;
+  padding: 2rem;
+  border-radius: 4px;
+}
+.outbox input {
+  border: 1px solid #242c37;
+  border-radius: 999px;
+  background-color: transparent;
+  text-align: center;
+}
+
+
+.outbox input[type="submit"] {
+  background-image: linear-gradient(160deg, #8ceabb 0%, #378f7b 100%);
+  color: #fff;
+  width: 100%;
+}
