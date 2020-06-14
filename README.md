@@ -14,7 +14,9 @@
 
 
 ## Screenshots
-<img src="https://github.com/" alt="Project Screenshots">
+<img src="https://github.com/techschneiderrr/Business-Card-Frontend/blob/master/frontend/img/card1.jpg"><br>
+<img src="https://github.com/techschneiderrr/Business-Card-Frontend/blob/master/frontend/img/card2.jpg"><br>
+<img src="https://github.com/techschneiderrr/Business-Card-Frontend/blob/master/frontend/img/card3.jpg">
 
 ## Instructions to run
 
