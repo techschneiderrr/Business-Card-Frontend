@@ -1,29 +1,23 @@
-# npxCard
+<p align="center"><a href="http://www.codechefvit.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
+</p>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+# Bussiness Card using npm 
 
-Creating your own Bussiness Card using a npm module, looks way more cooler than a normal boring contact card. Create an output template and publish it as a npm module package. If you write **npx rishabh007** in your linux terminals, this is what you get:-
-
-![Cool Right?](https://raw.githubusercontent.com/RishabhKodes/npxCard/master/bin/card.png)
-
-
-### Built With
-Some major frameworks that were used in creating of this project:-
-* [npm](https://www.npmjs.com/)
-* [Chalk](https://www.npmjs.com/package/chalk)
-* [Boxen](https://www.npmjs.com/package/boxen)
+> Cardify
+> This project aims at building the bussiness cards autonomously, without having any prior knowledge of design.
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Features
+- 
 
-### Installation
 
-1. Clone the repo
-```sh
-git clone git@github.com:RishabhKodes/npxCard.git
-```
+
+
+## Screenshots
+<img src="https://github.com/" alt="Project Screenshots">
+
+## Instructions to run
+
 2. Goto root directory
 ```sh
 cd npxCard
@@ -46,21 +40,15 @@ npm install
 npm publish
 ```
 
-<!-- CONTRIBUTING -->
-## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## Contributors
+- <a href="https://github.com/techschneiderrr">Manav Deep Singh Lamba</a>
 
 
-<!-- CONTACT -->
-## Contact Me
+## License
 
-**Rishabh Bhandari -** [LinkedIn](https://www.linkedin.com/in/rishabh-bhandari-ba5778168/)
-[Email](rishabhbhandari6@gmail.com)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
+<p align="center">
+	With :heart: by <a href="http://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
+</p>
