@@ -44,6 +44,8 @@ npm publish
 
 ## Contributors
 - <a href="https://github.com/techschneiderrr">Manav Deep Singh Lamba</a>
+- <a href="https://github.com/akshatvg">Akshat Gupta</a>
+- <a href="https://github.com/NavyaaSharma">Navya Sharma</a>
 
 
 ## License
