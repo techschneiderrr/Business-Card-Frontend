@@ -1,6 +1,11 @@
+
+html {
+  font-size: 14.5px;
+}
+
 body {
 
-  background-image: url('/img/8407.jpg');
+  background-image: url('../img/bg.jpg');
   
 
   background-position: center center;
@@ -15,10 +20,13 @@ body {
 
 
   background-size: cover;
+font-family: 'Open Sans', sans-serif;
+  line-height: 1.45em;
+
+  color: #404646;
 
 
-
-  background-color: #464646;
+  
 }
 
 .my-bar{
@@ -28,17 +36,18 @@ body {
 }
 
 .a3 {
-  color: white;
+  color: #ccda46;
   margin:5px;
   text-decoration: none;
 font-weight: 900;
+    
 }
 
 .a3:hover {
  
   background-position: bottom;
   background-repeat: repeat-x;
-  color: #ccda46;
+  color: white;
   text-decoration: none;
 }
 

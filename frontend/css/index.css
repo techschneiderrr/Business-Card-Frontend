@@ -5,16 +5,16 @@ html {
 
 body {
 
-  background-image: url('/img/8407.jpg');
+  background-image:url('../img/bg.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-color: #464646;
+  
     
   font-family: 'Open Sans', sans-serif;
   line-height: 1.45em;
-  background-color: floralwhite;
+
   color: #404646;
 }
 
@@ -81,7 +81,7 @@ font-weight: 900;
 }
 
 .a3 {
-  color: white;
+  color: #ccda46;
   margin:5px;
   text-decoration: none;
 font-weight: 900;
@@ -91,7 +91,7 @@ font-weight: 900;
  
   background-position: bottom;
   background-repeat: repeat-x;
-  color: #ccda46;
+  color: white;
   text-decoration: none;
 }
 
@@ -178,7 +178,10 @@ font-weight: 900;
   text-align: center;
 }
 
-
+img {
+  width: 100%;
+  height: auto;
+}
 
 .big-script p {
   margin: 0;

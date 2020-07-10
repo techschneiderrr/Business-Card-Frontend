@@ -63,19 +63,8 @@ body {
 .card__side--front {
   background-color: #1c1c1c;
 }
-.card__side--back {
-  -webkit-transform: rotateY(180deg);
-          transform: rotateY(180deg);
-  background-color: #1c1c1c;
-}
-.card:hover .card__side--front {
-  -webkit-transform: rotateY(-180deg);
-          transform: rotateY(-180deg);
-}
-.card:hover .card__side--back {
-  -webkit-transform: rotateY(0deg);
-          transform: rotateY(0deg);
-}
+
+
 .card__cont {
   height: 15rem;
   background-color: #1c1c1c;
